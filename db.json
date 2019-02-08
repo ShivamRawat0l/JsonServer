@@ -1,12 +1,12 @@
 {
  "Details": [
   {
-    'Name':'Rawat',
-    'Class':'Cse-C',
+    "Name":"Rawa",
+    "Class":"Cse-C",
   },
     {
-    'Name':'Rajat',
-    'Class':'Cse-E',
+    "Name":"Rajat",
+    "Class":"Cse-E",
   },
   ],
 }
