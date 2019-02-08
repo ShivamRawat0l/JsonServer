@@ -1,11 +1,12 @@
 {
-  "posts": [
+  [
+  {
+    'Name':'Rawat',
+    'Class':'Cse-C',
+  },
     {
-      "id": 1,
-      "title": "hello"
-    }
+    'Name':'Rajat',
+    'Class':'Cse-E',
+  },
   ],
-  "profile": {
-    "name": "typicode"
-  }
 }
